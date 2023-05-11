@@ -1,3 +1,7 @@
+## 1.1.0 (2023.05.11)
+
+- Supports Dart 3
+
 ## 1.0.3 (2022.12.03)
 
 - Update dependencies.
