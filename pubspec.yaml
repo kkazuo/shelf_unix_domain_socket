@@ -11,7 +11,7 @@ platforms:
   macos:
 
 dependencies:
-  posix: ^4.1.0
+  posix: ^5.0.0
 
 dev_dependencies:
   lint: ^2.0.1
