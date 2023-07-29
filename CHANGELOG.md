@@ -1,3 +1,7 @@
+## 1.1.1 (2023.07.29)
+
+- Fix posix dependency version for Dart 3. (Thanks @Tysonpower)
+
 ## 1.1.0 (2023.05.11)
 
 - Supports Dart 3
